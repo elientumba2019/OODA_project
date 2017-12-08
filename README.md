@@ -1,10 +1,17 @@
-# OODA_project
-class final project (object oriented design and analysis
+# Welcome to the OODA_project_TeamJava wiki!
+this project is a final project in the Class of Object oriented analysis and design taught by the Doctor Benjamin Kenwright .
 
+The team working on the project is made of two people
+## Nsampi Ntumba Elie : 201532120148
+## Bilomba Ndomba Herve : 201532120138
 
-Students Numbers : 
-201532120148 : Nsampi Ntumba Elie , Github account : elientumba2019
-
-////////////////////////////////////////////////////////////////////
-
-201532120138 : Bilomba Ndomba Herve , Github account : hervebilomba38
+# Project description
+Analyse and design an ATM system  
+our project contains the following : 
+* Problem description
+* System requirement
+* Functional and Non-functional requirements
+* Use case diagram
+* activity diagram
+* class diagram
+* sequence diagram
