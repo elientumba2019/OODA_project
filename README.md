@@ -15,3 +15,6 @@ our project contains the following :
 * activity diagram
 * class diagram
 * sequence diagram
+* deployment diagram
+* State machine diagram
+* Collaboration diagram
